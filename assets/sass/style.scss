@@ -1,0 +1,11 @@
+// Bootstrap
+@import "_bootstrap-sprockets.scss";
+@import '_bootstrap.scss';
+
+// Base Styles
+@import 'slices/base.scss';
+
+
+a {
+    color: red;
+}
